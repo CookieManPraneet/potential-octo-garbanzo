@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+    font-size: 27px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px aquamarine;
+}
+.note{
+    font-size: 15;
+    color: lawngreen;
+}
+.copy_right_footer{
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 18;
+    line-height: 3;
+}
+#input{
+    color: black;
+}
+#set{
+    width: 100px;
+    height: 50px;
+}
